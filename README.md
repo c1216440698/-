@@ -2,6 +2,6 @@
 Machine learning course design
 
 
-博文地址：https://wordpress.com/post/cdlnuist.wordpress.com/542
+博文地址：https://cdlnuist.wordpress.com/2018/12/25/542/
 
 一次简单的课程设计作业。
